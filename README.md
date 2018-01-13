@@ -9,12 +9,12 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
 ### Data Analysis Projects
 
 * [Titanic Passanger Dataset](https://github.com/tttgm/Data-Science-Portfolio/blob/master/Titanic%20Data%20Analysis.ipynb): Perform an analysis of the passengers onboard the Titanic, and which were the strongest factors in determining their fate. 
-
 *Tools: Numpy, Pandas, Matplotlib*
 
-* [Open Street Map - Melbourne](https://github.com/tttgm/Data-Science-Portfolio/blob/master/OpenStreetMap%20data%20Melbourne.ipynb): The OpenStreetMap data for Melbourne, Australia was wrangled, investigated, and cleaned. The data was relatively dirty, providing a good opportunity to practise wrangling. Here's a summary [report](https://github.com/tttgm/Data-Science-Portfolio/blob/master/osm_report.ipynb), and the [full repo](https://github.com/tttgm/OSM-Data-Project). 
-
+* [Open Street Map - Melbourne](https://github.com/tttgm/Data-Science-Portfolio/blob/master/OpenStreetMap%20data%20Melbourne.ipynb): The OpenStreetMap data for Melbourne, Australia was wrangled, investigated, and cleaned. The data was relatively dirty, providing a good opportunity to practise wrangling. Here's a summary [report](https://github.com/tttgm/Data-Science-Portfolio/blob/master/osm_report.ipynb), and the [full repo](https://github.com/tttgm/OSM-Data-Project).
 *Tools: ElementTree, regex, SQLite*
+
+* [Wine Quality](): Conducted a detailed statistical analysis of the factors influencing wine 'quality'. Contains a lot of plots and summary statistics. *Tools: R, RStudio, ggplot*
 
 ### Machine Learning Projects
 
