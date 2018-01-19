@@ -14,7 +14,9 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
   * [Bay Area Bike Share](https://github.com/tttgm/Data-Science-Portfolio/blob/master/Bay_Area_Bike_Share_Analysis.ipynb): Performed analysis on a dataset from a bike share company in the Bay Area. Of most interest were rider frequencies at certain times and the geographic distribution of rider traffic. *Tools: Numpy, Pandas, Matplotlib*
 
 ### Machine Learning Projects
+**Natural Language Processing (NLP)**
 
+**Other Machine Learning**
 
 ### Mini-Projects
 
