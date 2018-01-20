@@ -22,7 +22,11 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
 
  * [Enron Email Investigation](https://github.com/tttgm/Data-Science-Portfolio/blob/master/EnronEmailInvestigation-ML.ipynb): A machine learning investigation into potential Persons Of Interest (POIs) for fraudulent behaviour eventually leading to the dramatic collapse of Enron. The dataset was a combination of email records, employee salaries, stock options, and others. *Tools: sklearn, matplotlib, PCA, KNN, SVM*
 
-### Mini-Projects
-
-
-
+### Code Snippets
+These are some small pieces of code recorded for my own reference from vaious text books and courses.
+**Python**
+_Anaconda_
+[Conda Basics](https://github.com/tttgm/code-snippets/blob/master/Anaconda/conda_basics.py)
+[Managing Envirnonments](https://github.com/tttgm/code-snippets/blob/master/Anaconda/managing_environments.py)
+_Basics_
+[Datetime Conversion](https://github.com/tttgm/code-snippets/blob/master/python-basics/datetime_conversion.py)
