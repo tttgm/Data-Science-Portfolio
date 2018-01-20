@@ -16,6 +16,8 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
 ### Machine Learning Projects
 **_Natural Language Processing (NLP)_**
 
+ * [Leonard vs Bob] (): This is a simple application that uses a machine learning algorithm to classify a set of lyrics as being more Leonard Cohen-like or Bob Dylan-esque. The training of the algorithm included the set of lyrics from each artists extensive back-catalogue. *Tools: 
+ 
 **_Other Machine Learning_**
 
 ### Mini-Projects
