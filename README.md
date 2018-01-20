@@ -24,9 +24,13 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
 
 ### Code Snippets
 These are some small pieces of code recorded for my own reference from vaious text books and courses.
+
 **Python**
+
 _Anaconda_
-[Conda Basics](https://github.com/tttgm/code-snippets/blob/master/Anaconda/conda_basics.py)
-[Managing Envirnonments](https://github.com/tttgm/code-snippets/blob/master/Anaconda/managing_environments.py)
+
+ * [Conda Basics](https://github.com/tttgm/code-snippets/blob/master/Anaconda/conda_basics.py)
+ * [Managing Envirnonments](https://github.com/tttgm/code-snippets/blob/master/Anaconda/managing_environments.py)
+
 _Basics_
-[Datetime Conversion](https://github.com/tttgm/code-snippets/blob/master/python-basics/datetime_conversion.py)
+ * [Datetime Conversion](https://github.com/tttgm/code-snippets/blob/master/python-basics/datetime_conversion.py)
