@@ -20,7 +20,7 @@ The projects have been broadly divided into "Data Analysis Projects", "Machine L
  
 **_General Machine Learning_**
 
- * [Enron Email Enquiry](https://github.com/tttgm/Data-Science-Portfolio/blob/master/EnronEmailInvestigation-ML.ipynb): A machine learning investigation into potential Persons Of Interest (POIs) for fraudulent behaviour eventually leading to the dramatic collapse of Enron. The dataset was a combination of email records, employee salaries, stock options, and others. *Tools: sklearn, matplotlib, PCA, KNN, SVM*
+ * [Enron Email Investigation](https://github.com/tttgm/Data-Science-Portfolio/blob/master/EnronEmailInvestigation-ML.ipynb): A machine learning investigation into potential Persons Of Interest (POIs) for fraudulent behaviour eventually leading to the dramatic collapse of Enron. The dataset was a combination of email records, employee salaries, stock options, and others. *Tools: sklearn, matplotlib, PCA, KNN, SVM*
 
 ### Mini-Projects
 
