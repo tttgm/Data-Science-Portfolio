@@ -40,3 +40,14 @@ _Pandas_
  * [Adding row indexes to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/adding_row_indexes.py)
  * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/csv_to_dataframe.py)
  * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
+
+**R**
+
+_Basics_
+ * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/R-basics/read_csv_r.py)
+ * [Get summary statistics](https://github.com/tttgm/code-snippets/blob/master/R-basics/get_summary_stats.py)
+ * [Convert column to a Boolean](https://github.com/tttgm/code-snippets/blob/master/R-basics/convert_col_to_boolean.py)
+
+_Plotting_
+ * [Simple histogram plot](https://github.com/tttgm/code-snippets/blob/master/R-basics/basic_histogram.py)
+ * [Graph scaling and axis transformations](https://github.com/tttgm/code-snippets/blob/master/R-basics/graph_scaling_r.py)
