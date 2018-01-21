@@ -28,7 +28,6 @@ These are some small pieces of code recorded for my own reference from vaious te
 **Python**
 
 _Anaconda_
-
  * [Conda Basics](https://github.com/tttgm/code-snippets/blob/master/Anaconda/conda_basics.py)
  * [Managing Envirnonments](https://github.com/tttgm/code-snippets/blob/master/Anaconda/managing_environments.py)
 
