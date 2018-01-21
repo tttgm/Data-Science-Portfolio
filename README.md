@@ -34,3 +34,9 @@ _Anaconda_
 
 _Basics_
  * [Datetime Conversion](https://github.com/tttgm/code-snippets/blob/master/python-basics/datetime_conversion.py)
+
+_Pandas_
+ * [Indexing 2D Array](https://github.com/tttgm/code-snippets/blob/master/pandas/indexing_pandas_array.py)
+ * [Adding row indexes to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/adding_row_indexes.py)
+ * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/pandas/csv_to_dataframe.py)
+ * [Apply function to column with .applymap()](https://github.com/tttgm/code-snippets/blob/master/pandas/apply_func_with_applymap.py)
