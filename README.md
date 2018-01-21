@@ -46,7 +46,10 @@ _Basics_
  * [Import csv to dataframe](https://github.com/tttgm/code-snippets/blob/master/R-basics/read_csv_r.py)
  * [Get summary statistics](https://github.com/tttgm/code-snippets/blob/master/R-basics/get_summary_stats.py)
  * [Convert column to a Boolean](https://github.com/tttgm/code-snippets/blob/master/R-basics/convert_col_to_boolean.py)
+ * [Binning using the cut() method](https://github.com/tttgm/code-snippets/blob/master/R-basics/create_bins_with_cut.py)
 
 _Plotting_
  * [Simple histogram plot](https://github.com/tttgm/code-snippets/blob/master/R-basics/basic_histogram.py)
  * [Graph scaling and axis transformations](https://github.com/tttgm/code-snippets/blob/master/R-basics/graph_scaling_r.py)
+ * [Scatterplot matrix](https://github.com/tttgm/code-snippets/blob/master/R-basics/scatterplot_matrix.py)
+ * [Plotting with maps](https://github.com/tttgm/code-snippets/blob/master/R-basics/plotting_with_maps.py)
