@@ -1,4 +1,6 @@
 # Data Science Portfolio
+_**Tom McKenzie**_
+*Melbourne, Australia*
 
 A collection of data-based projects completed for academic purposes, self-learning a new skill or technique, or just for fun.
 
