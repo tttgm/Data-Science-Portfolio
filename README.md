@@ -2,11 +2,11 @@
 _**Tom McKenzie**_  
 *Melbourne, Australia*
 
-A collection of data-based projects completed for academic purposes, self-learning a new skill or technique, or just for fun.
+A collection of data-based projects completed for academic purposes, learning a new skill or technique, or just for fun.
 
-For most projects, only a Jupyter Notebook file is included. The complete contents of some projects are in separate repositories, all of which are linked to below.
+For most projects only a Jupyter Notebook file is included. The complete contents of some projects are in separate repositories, all of which are linked to below.
 
-The projects have been broadly divided into "Data Analysis Projects", "Machine Learning Projects", and "Mini-Projects" (usually just for playing around with a new bit of code, not working with a dataset).
+The projects have been broadly divided into "Data Analysis Projects" and "Machine Learning Projects".
 
 ### Data Analysis Projects
 
