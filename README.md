@@ -21,8 +21,8 @@ The projects have been broadly divided into "Data Analysis Projects" and "Machin
 ### Machine Learning Projects
 **_Natural Language Processing (NLP)_**
 
- * [Leonard vs Bob](https://github.com/tttgm/Data-Science-Portfolio/blob/master/LeonardBobProj.ipynb): This is a simple application that uses a machine learning algorithm to classify a set of lyrics as being more Leonard Cohen-like or Bob Dylan-esque. The training of the algorithm included the set of lyrics from each artists extensive back-catalogue. Here's the [full repo](https://github.com/tttgm/LeonardOrBob). *Tools: NLTK, sklearn, scipy, GaussianNB*
+ * [Leonard vs Bob](LeonardBobProj.html): This is a simple application that uses a machine learning algorithm to classify a set of lyrics as being more Leonard Cohen-like or Bob Dylan-esque. The training of the algorithm included the set of lyrics from each artists extensive back-catalogue. Here's the [full repo](https://github.com/tttgm/LeonardOrBob). *Tools: NLTK, sklearn, scipy, GaussianNB*
  
 **_General Machine Learning_**
 
- * [Enron Email Investigation](https://github.com/tttgm/Data-Science-Portfolio/blob/master/EnronEmailInvestigation-ML.ipynb): A machine learning investigation into potential Persons Of Interest (POIs) for fraudulent behaviour eventually leading to the dramatic collapse of Enron. The dataset was a combination of email records, employee salaries, stock options, and others. *Tools: sklearn, matplotlib, PCA, KNN, SVM*
+ * [Enron Email Investigation](EnronEmailInvestigation.html): A machine learning investigation into potential Persons Of Interest (POIs) for fraudulent behaviour eventually leading to the dramatic collapse of Enron. The dataset was a combination of email records, employee salaries, stock options, and others. *Tools: sklearn, matplotlib, PCA, KNN, SVM*
